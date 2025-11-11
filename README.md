@@ -200,7 +200,7 @@ Este projeto está sob licença MIT. Veja o arquivo `LICENSE` para mais detalhes
 
 **Luana Rodrigues** 💜
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/luanac-rodrigues/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/luanac-rodrigues/)
 
 
 ---
