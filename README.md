@@ -200,12 +200,8 @@ Este projeto está sob licença MIT. Veja o arquivo `LICENSE` para mais detalhes
 
 **Luana Rodrigues** 💜
 
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- GitHub: [Seu GitHub](https://github.com/seu-usuario)
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/luanac-rodrigues/)
 
-## 📞 Suporte
-
-Tem dúvidas? Abra uma issue no GitHub ou entre em contato.
 
 ---
 
